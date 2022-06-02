@@ -10,5 +10,5 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=achmadss&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=achmadss&theme=vue-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadss&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=achmadss&theme=vue-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadss&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
